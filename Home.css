@@ -1,0 +1,130 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-group-1 {
+  width: 447px;
+  min-height: 486px;
+  margin: 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 239px;
+  height: 239px;
+  background-image: url("images/DSC05431.jpg");
+  background-position: 50% 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3rem;
+  font-style: normal;
+  text-align: center;
+  margin: 14px 0 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 53px;
+  min-height: 16px;
+  width: 242px;
+  min-width: 94px;
+  text-align: center;
+  margin: 45px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  color: rgb(0, 122, 185) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+  color: rgb(219, 83, 75) !important;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+  color: rgb(0, 0, 0) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 447px;
+    margin-top: 45px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    width: 315px;
+    margin-top: 33px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 87px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 38px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 62px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 46px;
+    margin-left: 47px;
+    margin-right: 47px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 46px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 769px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 296px;
+    height: 296px;
+    margin-top: 105px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 54px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    height: 62px;
+    width: 278px;
+    margin-top: 38px;
+  }
+}
